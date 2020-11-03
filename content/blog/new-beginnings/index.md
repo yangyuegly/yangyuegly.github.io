@@ -1,6 +1,5 @@
 ---
 title: React Practice Project
-date: "2020-05-28T22:40:32.169Z"
 description: .
 ---
 
